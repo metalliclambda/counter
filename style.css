@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.item {
+  width: 200px;
+  height: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.number {
+  margin-right: 10px;
+}
+
+.decrease {
+  color: red;
+}
+
+.total {
+  width: 200px;
+  height: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
