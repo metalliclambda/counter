@@ -37,3 +37,16 @@
   border: 1px solid black;
   margin-top: 20px;
 }
+
+footer {
+  text-align: left;
+}
+
+.footer-text {
+  display: inline-block;
+}
+
+.heart {
+  display: inline-block;
+  margin-left: 5px;
+}
