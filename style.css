@@ -38,16 +38,8 @@
   margin-top: 20px;
 }
 
-footer {
+
+.footer-text {
+  /* display: inline-block; */
   text-align: left;
 }
-
-/* .footer-text {
-  display: inline-block;
-}
-
-.heart {
-  display: inline-block;
-  margin-left: 5px;
-}
- */
